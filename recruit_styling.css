@@ -55,8 +55,12 @@ div::-webkit-scrollbar-thumb{
     overflow-x:hidden;
 }
 .rec_job_listing_div_jobs{
-	flex: 1 100%;
+  flex: 1 100%;
   height: 900px;
+  padding-right: 4px;
+  padding-left: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
   overflow: auto;
 }
 
