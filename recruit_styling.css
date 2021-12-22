@@ -59,6 +59,7 @@ div::-webkit-scrollbar-thumb{
 
 .embed_jobs_head3 {
 	color: transparent;
+  background-color: transparent;
 	line-height: 27px;
 }
 
