@@ -29,7 +29,7 @@ div::-webkit-scrollbar-thumb{
 }
 
 .embed_jobs_head2 {
-	background-color: #fff;
+	background-color: transparent;
 	font: normal 14px lucida grande, lucida sans, lucida sans unicode, arial,helvetica, verdana, sans-serif;
 	border: 1px solid #eee;
 	padding: 20px;
