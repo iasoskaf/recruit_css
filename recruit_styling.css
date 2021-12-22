@@ -101,7 +101,7 @@ div::-webkit-scrollbar-thumb{
  .embed_jobs_with_style .embed_jobs_head3{
     line-height: 27px;
     font-size: 0.875rem;
-    color: #0e1b26;
+    color: transparent;
      font-weight: bold;
 }
  .embed_jobs_with_style .cw-facet-checkbox-label span{
