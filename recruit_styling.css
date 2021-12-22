@@ -422,7 +422,7 @@ div::-webkit-scrollbar-thumb{
   font-size: 1.2em;
   }
   #new{
-  width: 73.5%;
+  margin:5px;
   padding: 10px;
 
   }
